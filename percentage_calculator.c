@@ -9,7 +9,7 @@ void main()
     printf("Enter your name\n");
     scanf("%s",&name);
     printf("Enter your register number\n");
-    scanf("%f",&no);
+    scanf("%d",&no);
     printf("Enter your mark in english(out of 200)\n");
     scanf("%f",&m1);
     printf("Enter your mark in second language(out of 200)\n");
